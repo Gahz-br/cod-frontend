@@ -222,7 +222,7 @@ function App() {
       <button onClick={Sarumano}>Sarumano</button>
       <button onClick={ManoJuca}>Contas Juca</button>
       <button onClick={RomeroBrique}>Obra Romero</button>
-      <button onClick={PetShop}>Pet Shop Ron Bernardo</button>
+      <button onClick={PetShop}>Pet Shop Ron Bernardo</button> 
 
     </div>
   )
